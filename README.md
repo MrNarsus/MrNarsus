@@ -1,8 +1,7 @@
 <div align="center">
-  <h3>السلامُ عليكمُ ورحمةُ الله وبركاتُه</h3>
+  <h3>(وَقُل رَّبِّ زِدْنِي عِلْمًا)</h3>
   <p>
-    <b>﴿ وَقُل رَّبِّ زِدْنِي عِلْمًا }</b><br>
-    <i style="color: #8b949e;">"My Lord! Increase me in knowledge."</i><br>
+    <i style="color: #8b949e;">"My Lord! Increase me in knowledge"</i><br>
     <sub>◈ Quran: [Taha: 114] ◈</sub>
   </p>
 </div>
@@ -20,12 +19,12 @@
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <h3 align="center">👨‍💻 The Programmer</h3>
+      <h3 align="center">About Me</h3>
       <p>Learning systems, coding, and exploring how things work.</p>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=From+abstraction+to+implementation;Breaking+down+complexity;Building+with+intent..." alt="Dev Typing" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <h3 align="center">✍️ The Writer</h3>
+      <h3 align="center">My Garden</h3>
       <p>Writing about technology and learning at <b>bassye.org</b>.</p>
       <a href="https://bassye.org">
         <img src="https://img.shields.io/badge/Visit_Blog-bassye.org-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF&labelColor=1B263B" alt="Website Button" />
