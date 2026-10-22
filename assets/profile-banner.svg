@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1017"/>
+      <stop offset="1" stop-color="#111923"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="720" y1="70" x2="1110" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#77C7D9"/>
+      <stop offset="1" stop-color="#D5A66B"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#A9BAC9" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <path d="M0 286H1200" stroke="#8EA0B5" stroke-opacity=".16"/>
+  <path d="M42 42H230" stroke="#77C7D9" stroke-width="2"/>
+  <circle cx="42" cy="42" r="4" fill="#77C7D9"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="42" y="91" fill="#91A2B5" font-size="12" letter-spacing="3">FIELD NOTES / 001</text>
+    <text x="42" y="153" fill="#F0F4F8" font-size="43" font-weight="600" letter-spacing="-1.5">BUILD TO</text>
+    <text x="42" y="202" fill="#F0F4F8" font-size="43" font-weight="600" letter-spacing="-1.5">UNDERSTAND.</text>
+    <text x="44" y="242" fill="#A9B7C6" font-size="14">Observe the system. Find the mechanism.</text>
+    <text x="44" y="263" fill="#A9B7C6" font-size="14">Turn understanding into something useful.</text>
+  </g>
+  <g stroke="#6E8399" stroke-opacity=".65" stroke-width="1.2">
+    <path d="M680 91H760V132H835"/>
+    <path d="M680 132H723V177H790V218H870"/>
+    <path d="M744 76V105H802V148H884"/>
+    <path d="M760 132V91H842"/>
+    <path d="M835 132V190H930"/>
+    <path d="M790 177H824V246H914"/>
+    <path d="M884 148H947V108H1004"/>
+    <path d="M930 190H974V224H1038"/>
+  </g>
+  <g fill="#0B1017" stroke="#77C7D9" stroke-width="1.5">
+    <rect x="668" y="79" width="24" height="24" rx="4"/>
+    <rect x="711" y="120" width="24" height="24" rx="4"/>
+    <rect x="790" y="136" width="24" height="24" rx="4"/>
+    <rect x="823" y="120" width="24" height="24" rx="4"/>
+    <rect x="872" y="136" width="24" height="24" rx="4"/>
+    <rect x="918" y="178" width="24" height="24" rx="4"/>
+    <rect x="1026" y="212" width="24" height="24" rx="4"/>
+  </g>
+  <g fill="#D5A66B">
+    <circle cx="744" cy="76" r="3.5"/>
+    <circle cx="842" cy="91" r="3.5"/>
+    <circle cx="947" cy="108" r="3.5"/>
+    <circle cx="914" cy="246" r="3.5"/>
+    <circle cx="1038" cy="224" r="3.5"/>
+  </g>
+  <path d="M670 282C738 282 744 251 800 251S877 272 925 251 1005 266 1070 246 1122 229 1160 229" stroke="url(#signal)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="1160" cy="229" r="4" fill="#D5A66B"/>
+  <text x="1156" y="310" fill="#73869B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2" text-anchor="end">OBSERVE → INVESTIGATE → UNDERSTAND</text>
+</svg>
